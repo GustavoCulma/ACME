@@ -1,0 +1,7 @@
+#RewriteBase /
+RewriteEngine on
+
+RewriteRule ^conductor conductor.php
+RewriteRule ^informe informe.php
+RewriteRule ^vehiculo vehiculo.php
+RewriteRule ^propietario propietario.php
